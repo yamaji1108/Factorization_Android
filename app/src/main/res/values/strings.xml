@@ -15,5 +15,7 @@
     <string name="button_home">HOME</string>
     <string name="button_clear">CLEAR</string>
     <string name="button_enter">ENTER</string>
+    <string name="a">a</string>
+
 
 </resources>
